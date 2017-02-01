@@ -1,2 +1,5 @@
-# WhereIsMyCab
-Small project on sparkjava framework and elastic search.
+# Sparkjava Elasticsearch Demonstration
+
+Small project which can show the capability of Sparkjava and Elasticesearch framework.
+
+
